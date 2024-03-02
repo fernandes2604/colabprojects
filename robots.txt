@@ -1,0 +1,6 @@
+# Permite todos os bots de busca rastrearem o site
+User-agent: *
+Disallow:
+
+# Especifica a localização do sitemap
+Sitemap :https://colabprojects.vercel.app/sitemap.xml
